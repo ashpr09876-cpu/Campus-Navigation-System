@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medicaps Nav</string>
+    <string name="search_hint">Search campus buildings, rooms…</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="floor_plan">Floor Plan</string>
+    <string name="no_location">Enable GPS for walking directions</string>
+</resources>

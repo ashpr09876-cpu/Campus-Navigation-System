@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MedicapsNav" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/mu_blue</item>
+        <item name="colorSecondary">@color/mu_orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/mu_blue</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+    </style>
+</resources>
