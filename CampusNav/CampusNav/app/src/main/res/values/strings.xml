@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Campus Nav</string>
+
+    <!-- TODO: Replace with your actual Google Maps API Key -->
+    <!-- You can also use secrets.properties and secrets-gradle-plugin -->
+    <string name="maps_api_key">YOUR_GOOGLE_MAPS_API_KEY_HERE</string>
+
+    <!-- UI strings -->
+    <string name="search_hint">Search buildings, rooms…</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="no_results">No buildings found</string>
+    <string name="location_permission_needed">Enable location to get directions</string>
+    <string name="loading_directions">Getting directions…</string>
+    <string name="directions_error">Could not get directions. Check your internet connection.</string>
+</resources>
